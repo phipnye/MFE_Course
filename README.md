@@ -12,4 +12,4 @@ Certificate Awarded with Distinction
 
 URL to Program: https://quantnet.com/courses/
 
-URL to View Granted Certificate: https://drive.google.com/file/d/1XjnMfVrYoDu2s9FQAz9sNwG0xgN1VYc3/view
+URL to View Granted Certificate: https://github.com/phipnye/MFE_Course/blob/main/Philip_Nye_Certificate.pdf
